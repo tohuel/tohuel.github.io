@@ -1,5 +1,5 @@
 ---
-title: "100 Years of FOMC Speak - An application of LLMs on Monetary Policy Sentiment"
+title: "100 Years of FOMC Speak - An Application of LLMs on Monetary Policy Sentiment"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 category: macro-finance
