@@ -76,12 +76,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 portfolio_category:
-  macro-finance:
-    title: 'Macro-Finance'
   applied-microeconometrics:
     title: 'Applied-Microeconometrics'    
   econometrics:
     title: 'Econometrics'
+  macro-finance:
+    title: 'Macro-Finance'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
