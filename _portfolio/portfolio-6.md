@@ -1,5 +1,5 @@
 ---
-title: "Fat tails in Pricing"
+title: "Fat Tails in Pricing"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 category: applied-microeconometrics

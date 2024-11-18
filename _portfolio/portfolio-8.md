@@ -1,5 +1,5 @@
 ---
-title: "Causal evidence on stock market beliefs"
+title: "Causal Evidence on Stock Market Beliefs"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 category: macro-finance

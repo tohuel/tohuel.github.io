@@ -1,5 +1,5 @@
 ---
-title: "Bachelor thesis"
+title: "Fiscal Policy Spillovers in the Eurozone"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 category: macro-finance
