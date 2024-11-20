@@ -17,6 +17,8 @@ This page serves as a hub for sharing my journey, work, and ideas. Here, you’l
 
 Feel free to explore my work and connect—I’d love to share ideas and collaborate!
 
+-------
+
 What's new?
 ======
 
