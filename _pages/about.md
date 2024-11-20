@@ -22,10 +22,11 @@ Feel free to explore my work and connect—I’d love to share ideas and collabo
 What's new?
 ======
 
+- **January 25:** Published work on a high-frequency pricing algorithm with my old algorithmic pricing team. Please find the paper here. 
 - **September 24:** Attending the CausalAi Conference in London.
 - **September 24:** Attending the annual Verein für Socialpolitik (VfS) Conference at TU Berlin. Presenting my paper on Human-Machine Interactions in Pricing.
 - **June 24:** Attending the ZEW Conference on ICT at University of Mannheim. Presenting my paper on Human-Machine Interactions in Pricing.
 - **June 24:** Attending the NABE Tech Europe Conference in Berlin
-- **April 24:** Sharing the working paper on Human-Machine Interactions in Pricing. 
-- **March 23:** Starting a new position within Zalando in the experimentation and measurement team. 
-- **August 22:** Starting a new position as Economist and Applied Scientist for Causal Inference at Zalando in the algorithmic pricing team.  
+- **April 24:** Sharing the working paper on Human-Machine Interactions in Pricing. Please find the paper here. 
+- **March 23:** Starting a new position within Zalando in the **experimentation and measurement** team. 
+- **August 22:** Starting a new position as **Economist and Applied Scientist** for Causal Inference at **Zalando** in the **algorithmic pricing** team.  
