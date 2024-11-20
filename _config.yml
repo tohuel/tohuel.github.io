@@ -21,7 +21,7 @@ repository               : "tohuel/tohuel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "chicago.jpg"
   name             : "Tobias Huelden"
   pronouns         : # example: "she/her"  
   bio              : "Applied Economist & Scientist"
