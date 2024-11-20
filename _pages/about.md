@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage
-======
-bla bla
+-------
+Welcome, 
 
 What's new?
 ======
