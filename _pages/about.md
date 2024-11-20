@@ -8,7 +8,14 @@ redirect_from:
 ---
 
 -------
-Welcome, 
+Welcome,
+I’m Tobi — an applied scientist and economist with a passion for solving complex problems at the intersection of data, economics, and technology. 
+
+Professionally, I’ve worked in a range of fields, including tech, financial advisory, central banking, financial market analysis, and macro-finance research. Each experience has deepened my appreciation for using data to inform decisions and create impactful solutions.
+
+This page serves as a hub for sharing my journey, work, and ideas. Here, you’ll find a blog where I explore topics in data science, economics, and technology; a portfolio showcasing projects I’ve contributed to or led; and updates about my latest professional activities.
+
+Feel free to explore my work and connect—I’d love to share ideas and collaborate!
 
 What's new?
 ======
