@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * M.Sc. in Economics (with distinction), Bonn University, 2020
+  * ENSAE ParisTech, 2018-2019
 * B.Sc. in Economics (with distinction), Bonn University, 2017
 
 Work experience
