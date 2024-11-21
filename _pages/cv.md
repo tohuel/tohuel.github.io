@@ -32,13 +32,17 @@ Work experience
 * 2018 - 2019: Research Assistant
   * Deutsche Bundesbank
   * Duties included: Economic research in macro-finance
-  
+  * Supervisor: Professor Moritz Schularick
+
 Skills
 ======
+* Applied economic research
+* Pricing
 * Econometrics & Statistics 
   * Experimentation
   * Observational causal inference
 * Machine Learning
+* Coding: R, Python, Spark, SQL, Git, Stata
 
 Publications
 ======
