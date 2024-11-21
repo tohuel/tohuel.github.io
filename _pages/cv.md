@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* **2022 - : Applied Scientist & Economist**
+* **2022 - present: Applied Scientist & Economist**
   * Zalando SE
   * Duties includes: Causal inference and applied economics in pricing 
 
