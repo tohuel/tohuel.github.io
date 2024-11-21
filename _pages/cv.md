@@ -42,7 +42,7 @@ Skills
   * Observational causal inference
 * Machine learning
 * Coding: R, Python, Spark, SQL, Git, Stata
-* Applied science communication
+* Science communication
 
 <!--Publications
 ======
