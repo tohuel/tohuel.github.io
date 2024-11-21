@@ -16,11 +16,11 @@ Education
 
 Work experience
 ======
-* **2022: Applied Scientist & Economist**
+* **2022 - : Applied Scientist & Economist**
   * Zalando SE
   * Duties includes: Causal inference and applied economics in pricing 
 
-* **2020-2022: Research Professional**
+* **2020 - 2022: Research Professional**
   * University of Chicago - Booth School of Business
   * Duties included: Economic research in behavioral macroeconomics 
   * Supervisor: Professor Michael Weber
@@ -40,8 +40,9 @@ Skills
 * Econometrics & Statistics 
   * Experimentation
   * Observational causal inference
-* Machine Learning
+* Machine learning
 * Coding: R, Python, Spark, SQL, Git, Stata
+* Applied science communication
 
 Publications
 ======
