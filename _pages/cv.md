@@ -44,7 +44,7 @@ Skills
 * Coding: R, Python, Spark, SQL, Git, Stata
 * Applied science communication
 
-Publications
+<!--Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -54,4 +54,4 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>-->
