@@ -16,20 +16,20 @@ Education
 
 Work experience
 ======
-* 2022: Applied Scientist & Economist
+* **2022: Applied Scientist & Economist**
   * Zalando SE
-  * Duties includes: Causal inference in pricing 
+  * Duties includes: Causal inference and applied economics in pricing 
 
-* 2020-2022: Research Professional
+* **2020-2022: Research Professional**
   * University of Chicago - Booth School of Business
   * Duties included: Economic research in behavioral macroeconomics 
   * Supervisor: Professor Michael Weber
 
-* 2019: Research Assistant
+* **2019: Research Assistant**
   * Deutsche Bundesbank
   * Duties included: Financial stability monitoring and economic research
 
-* 2018 - 2019: Research Assistant
+* **2018 - 2019: Research Assistant**
   * Deutsche Bundesbank
   * Duties included: Economic research in macro-finance
   * Supervisor: Professor Moritz Schularick
@@ -37,7 +37,6 @@ Work experience
 Skills
 ======
 * Applied economic research
-* Pricing
 * Econometrics & Statistics 
   * Experimentation
   * Observational causal inference
