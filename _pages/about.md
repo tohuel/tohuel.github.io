@@ -30,3 +30,4 @@ What's new?
 - **April 24:** Sharing the working paper on Human-Machine Interactions in Pricing. Please find the paper here. 
 - **March 23:** Starting a new position within Zalando in the experimentation and measurement team. 
 - **August 22:** Starting a new position as an economist and applied scientist for causal inference at Zalando in the algorithmic pricing team.  
+- **October 20:** Starting a new position as a Research Professional at the University of Chicago - Booth School of Business working on behavioral macroeconomics.
