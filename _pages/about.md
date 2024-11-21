@@ -9,7 +9,7 @@ redirect_from:
 
 -------
 Welcome,
-I’m Tobi — an applied scientist and economist with a passion for solving complex problems at the intersection of data science, economics, and technology. 
+I’m Tobias — an applied scientist and economist with a passion for solving complex problems at the intersection of data science, economics, and technology. 
 
 Professionally, I’ve worked in a range of fields, including tech, financial advisory, central banking, financial market analysis, and academic behavioral macro-finance research. Each experience has deepened my appreciation for using data to inform decisions and create impactful solutions.
 
