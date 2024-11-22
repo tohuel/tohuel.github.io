@@ -23,7 +23,7 @@ What's new?
 ======
 
 - **January 25:** Published work on a high-frequency pricing algorithm with my old algorithmic pricing team. Please find the paper here . 
-- **October 24:** Published my photography portfolio. Feel free so have a look [here] [analogeansichten.de].
+- **October 24:** Published my photography portfolio. Feel free so have a look [here](http://analogeansichten.de}.
 - **September 24:** Attending the CausalAi Conference in London.
 - **September 24:** Attending the annual Verein für Socialpolitik (VfS) Conference at TU Berlin. Presenting my paper on Human-Machine Interactions in Pricing.
 - **June 24:** Attending the ZEW Conference on ICT at University of Mannheim. Presenting my paper on Human-Machine Interactions in Pricing.
