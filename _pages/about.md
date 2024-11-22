@@ -22,7 +22,7 @@ Feel free to explore my work and connect—I’d love to share ideas and collabo
 What's new?
 ======
 
-- **January 25:** Published work on a high-frequency pricing algorithm with my old algorithmic pricing team. Please find the paper here[analogeansichten.de]. 
+- **January 25:** Published work on a high-frequency pricing algorithm with my old algorithmic pricing team. Please find the paper here [analogeansichten.de]. 
 - **October 24:** Published my photography portfolio. Feel free so have a look here analogeansichten.de[].
 - **September 24:** Attending the CausalAi Conference in London.
 - **September 24:** Attending the annual Verein für Socialpolitik (VfS) Conference at TU Berlin. Presenting my paper on Human-Machine Interactions in Pricing.
