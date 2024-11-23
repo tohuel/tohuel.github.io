@@ -3,7 +3,7 @@ title: "Beliefs and Portfolios: Causal Evidence"
 excerpt: "A research project I contributed to during my stay at University of Chicago - Booth School of Business. I was responsible for data preparation and empirical analysis. <br />
 <br />
 **Abstract**: 
-We causally test alternative theories of expectation formation and asset pricing. Using a randomized information experiment we show overreaction is a key feature of individuals’ belief formation. Individuals excessively extrapolate past returns and earnings growth into future returns. The average response to the price-earnings ratio is opposite to the academic consensus and individuals’ reaction to stock market news depends on their perceived importance. Conditional on their beliefs, individuals’ sensitivity of risky portfolio shares is consistent with the standard Merton model of portfolio choice. Our evidence suggests belief overreaction and heterogeneous subjective mental models as key ingredients to asset pricing models"
+We causally test alternative theories of expectation formation and asset pricing. Using a randomized information experiment we show overreaction is a key feature of individuals’ belief formation. Individuals excessively extrapolate past returns and earnings growth into future returns. The average response to the price-earnings ratio is opposite to the academic consensus and individuals’ reaction to stock market news depends on their perceived importance. Conditional on their beliefs, individuals’ sensitivity of risky portfolio shares is consistent with the standard Merton model of portfolio choice. Our evidence suggests belief overreaction and heterogeneous subjective mental models as key ingredients to asset pricing models."
 
 collection: portfolio
 category: macro-finance
