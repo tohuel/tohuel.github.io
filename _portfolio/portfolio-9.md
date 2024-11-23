@@ -2,8 +2,6 @@
 title: "The Expected, Perceived, and Realized Inflation of US Households Before and During the COVID19 Pandemic"
 excerpt: "A research project I contributed to during my stay at University of Chicago - Booth School of Business. I was responsible for data preparation and empirical analysis. <br />
 
-Please find a link to the paper [here] (https://www.nber.org/papers/w29640)
-
 <br />
 **Abstract**: 
 
