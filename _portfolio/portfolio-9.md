@@ -2,6 +2,8 @@
 title: "The Expected, Perceived, and Realized Inflation of US Households Before and During the COVID19 Pandemic"
 excerpt: "A research project I contributed to during my stay at University of Chicago - Booth School of Business. I was responsible for data preparation and empirical analysis. <br />
 
+Please find a link to the paper [here] (https://www.nber.org/papers/w29640)
+
 <br />
 **Abstract**: 
 
@@ -18,4 +20,4 @@ In addition to exploring realized inflation, the paper examines perceived inflat
 
 Overall, this research provides valuable insights into the dynamics of household inflation expectations and highlights the importance of understanding how individual price experiences shape broader macroeconomic perceptions. These findings have important implications for policymakers, particularly in managing inflation expectations in the post-pandemic era. They suggest that even temporary price increases in key sectors can lead to significant shifts in consumer expectations, potentially influencing consumption behavior and economic recovery.
 
-Please find a link to the paper [here] (https://www.nber.org/papers/w29640).
+.
