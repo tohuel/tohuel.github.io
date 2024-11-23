@@ -5,9 +5,7 @@ excerpt: "A research project I contributed to during my stay at University of Ch
 <br />
 **Abstract**: 
 
-Using matched micro-data on the spending of households and their macroeconomic expectations, we study the link between the realized inflation of households in their daily shopping and their perceived and expected levels of inflation both before and during the pandemic. As the pandemic spread across the USA, disagreement among US households about inflation expectations surged along with the average perceived and expected level of inflation. Simultaneously, realized inflation at the household level became more dispersed. During the pandemic, low income, low education, and Black households experienced a larger increase in realized inflation than other households. Dispersion in realized and perceived inflation explains a large share of the rise in dispersion in inflation expectations. Finally, households jointly revised their inflation and unemployment expectations during the pandemic, consistent with a supply-side view of the pandemic.
-<br />"
-
+Using matched micro-data on the spending of households and their macroeconomic expectations, we study the link between the realized inflation of households in their daily shopping and their perceived and expected levels of inflation both before and during the pandemic. As the pandemic spread across the USA, disagreement among US households about inflation expectations surged along with the average perceived and expected level of inflation. Simultaneously, realized inflation at the household level became more dispersed. During the pandemic, low income, low education, and Black households experienced a larger increase in realized inflation than other households. Dispersion in realized and perceived inflation explains a large share of the rise in dispersion in inflation expectations. Finally, households jointly revised their inflation and unemployment expectations during the pandemic, consistent with a supply-side view of the pandemic."
 collection: portfolio
 category: macro-finance
 ---
