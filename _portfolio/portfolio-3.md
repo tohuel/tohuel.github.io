@@ -1,6 +1,13 @@
 ---
 title: "Monetary Policy Surprises, Economic Activity and Asset Prices"
-excerpt: "This project constitutes my master thesis at University of Bonn <br/><img src='/images/500x300.png'>"
+excerpt: "This project constitutes my master thesis at University of Bonn <br/><img src='/images/500x300.png'>
+<br />
+<br />
+**Abstract**: 
+This paper investigates the causal effects of monetary policy on asset prices and macroeconomic activity using a high-frequency identification strategy applied to newly digitized financial data spanning 1952 to 2020. By isolating monetary policy surprises from Treasury yield movements around policy announcements, the study disentangles classical shocks affecting current short-term rates from forward-path shocks influencing expectations of future short-term rates. The findings reveal significant shifts in monetary transmission over time, with forward-path shocks emerging as key drivers of corporate bond spreads and equity returns since the 1990s, while classical shocks primarily affect short-term yields. Moreover, contractionary monetary policy significantly reduces production, employment, and prices, with stronger effects during recessions than expansions. These results provide new insights into the evolving dynamics and state-dependent nature of monetary policy's impact on financial markets and the broader economy.
+"
+
+
 collection: portfolio
 category: macro-finance
 ---
