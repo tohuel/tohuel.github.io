@@ -1,10 +1,12 @@
 ---
 title: "Quantile Instrumental Variable Panel Estimator"
-excerpt: "Seminar paper written during my stay at ENSAE Paris Tech 1<br/><img src='/images/quantile_estimation.png'>
+excerpt: "Seminar paper written during my stay at ENSAE Paris Tech<br/><img src='/images/quantile_estimation.png'>
 <br />
 <br />
 **Abstract**: 
-This project critically reviews the contribution by Galvao (2011). The method is summarised, main advances of the subsequent literature outlined and limitations of the Galvao (2011) approach assessed. The suggested method to estimate dynamic quantile panel models is applied to the question of determinants of inflation dynamics. We find that inflation shows heterogeneity in persistence across quantiles.
+This project critically reviews the evaluates the quantile regression dynamic panel data instrumental variables estimator (QRPIV) proposed by Galvao (2011). The method is summarised, main advances of the subsequent literature outlined and limitations of the Galvao (2011) approach assessed. 
+We present a generic implementation of the estimator in R.
+The suggested method to estimate dynamic quantile panel models is applied to the question of determinants of inflation dynamics. We find that inflation shows heterogeneity in persistence across quantiles.
 "
 collection: portfolio
 category: econometrics
