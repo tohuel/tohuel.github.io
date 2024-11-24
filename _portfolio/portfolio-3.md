@@ -1,6 +1,6 @@
 ---
 title: "Monetary Policy Surprises, Economic Activity and Asset Prices"
-excerpt: "This project constitutes my master thesis at University of Bonn <br/><img src='/images/monetary_policy_shocks.png'>
+excerpt: "This project constitutes my master thesis at University of Bonn. <br/><img src='/images/monetary_policy_shocks.png'>
 <br />
 <br />
 **Abstract**: 
