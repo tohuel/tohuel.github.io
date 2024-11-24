@@ -1,6 +1,6 @@
 ---
 title: "Quantile Instrumental Variable Panel Estimator"
-excerpt: "Seminar paper written during my stay at ENSAE Paris Tech<br/><img src='/images/quantile_estimation.png'>
+excerpt: "Seminar paper written during my stay at ENSAE Paris Tech.<br/><img src='/images/quantile_estimation.png'>
 <br />
 <br />
 **Abstract**: 
