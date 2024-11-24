@@ -1,8 +1,11 @@
 ---
 title: "Quantile Instrumental Variable Panel Estimator"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>
+excerpt: "Seminar paper written during my stay at ENSAE Paris Tech 1<br/><img src='/images/500x300.png'>
+<br />
+<br />
 
-the paper provides a thorough review of the estimator’s theoretical foundations, discusses its limitations in greater detail, and assesses subsequent advancements in the literature. The paper concludes with a detailed application of the estimator to inflation dynamics, showcasing its practical utility
+: Review and Application
+The paper provides a thorough discussion of the quantile regression dynamic panel data instrumental variables estimator (QRPIV) postulated by Galvao (2011). It reviews the theoretical foundations, discusses its limitations in greater detail, and assesses subsequent advancements in the literature. The paper concludes with a detailed application of the estimator to inflation dynamics, showcasing its practical utility
 "
 collection: portfolio
 category: econometrics
