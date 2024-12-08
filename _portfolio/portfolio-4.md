@@ -24,5 +24,3 @@ The first experiment focused on products where human interventions were predicte
 The second experiment expanded the analysis to the full product assortment, testing the effects of indiscriminately blocking all human interventions. While this approach reduced revenues and had no significant impact on profits, a closer examination showed that high-quality human interventions—those predicted to enhance performance—contributed positively to profitability. This underscores the heterogeneity in intervention quality and the need for a more targeted approach.
 
 The study concludes that neither fully autonomous algorithmic pricing nor unrestricted human intervention is optimal. Instead, combining algorithmic predictions with selective human input can maximize outcomes. By using algorithms to predict the quality of human interventions, companies can block inefficient overrides while leveraging expert knowledge to improve overall performance. This framework offers insights into optimizing human-machine collaboration in pricing and beyond.
-
-
