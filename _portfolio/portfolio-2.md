@@ -20,3 +20,6 @@ The paper provides a detailed review of Galvao (2011) and highlights its signifi
 A main contribution of the paper is the implementation of Galvao (2011)'s estimator in R, addressing the lack of a formal code base for this estimator. Despite the estimator's theoretical importance, it has not been widely adopted due to the absence of accessible code and difficulties in replication. This implementation provides a crucial tool for researchers seeking to apply dynamic quantile regression models to panel data, thereby advancing the reproducibility of empirical research in economics.
 
 Finally, the paper demonstrates the estimator's use in the context of the evaluation of inflation dynamics across advanced economies, illustrating its potential for empirical applications in macroeconomics. We find that inflation shows heterogeneity in persistence across quantiles.
+
+Please find the code for the project [here](https://github.com/tohuel/EPPE_Project)
+
