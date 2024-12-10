@@ -1,8 +1,17 @@
 ---
-title: "Fat Tails in Pricing"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Understanding the consequences of fat tails in Pricing"
+excerpt: "This project was long-term project at Zalando. The project aimed at breaking the cycle of inefficiencies for the pricing of low selling articles in Fashion E-Commerce. 1<br/><img src='/images/distribution_slow_mover.png'>"
 collection: portfolio
 category: applied-microeconometrics
 ---
+In fashion e-commerce, pricing is a key tool for driving sales and managing inventory. However, not all products respond equally to pricing strategies. A significant challenge lies with "slow movers"—products with persistently low sales despite being widely available. These items often occupy a substantial share of inventory while contributing minimally to revenue and profit. This imbalance creates inefficiencies, tying up resources without generating meaningful returns.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The core problem is that traditional algorithmic pricing systems rely heavily on historical sales data, which is extremely sparse for slow movers. This leads to inaccurate demand forecasts and suboptimal pricing decisions, creating a "vicious cycle" where low sales further degrade data quality and weaken future predictions. Breaking this cycle requires tailored approaches to pricing and forecasting.
+
+The project explored innovative strategies to improve slow mover performance. Slow movers were identified based on specific characteristics, such as low sales volumes, high stock levels, and significant inventory value. Interventions included testing simplified pricing adjustments and refining forecasting methods to better capture the unique demand dynamics of these products. For example, fixed discount increases and adjustments to pricing algorithms were trialed to assess their impact on sales and visibility. Additionally, demand forecasts were evaluated before and after these interventions to understand whether improved sales data could lead to more accurate future predictions.
+
+The findings highlight that even straightforward changes in pricing can improve the commercial performance of slow movers, making them more attractive to customers and increasing their visibility. Importantly, these approaches did not appear to negatively affect the performance of faster-moving items, suggesting that targeted strategies for slow movers can be implemented without disrupting the broader assortment.
+
+This work underscores the need for flexible, data-driven pricing systems that account for the unique challenges of slow movers. By addressing the inefficiencies in pricing and forecasting, e-commerce businesses can transform the "vicious cycle" into a "virtuous cycle," where improved sales lead to better data, enabling more accurate predictions and sustainable performance improvements. Future research will focus on integrating these insights into scalable pricing systems and exploring more sophisticated strategies to enhance profitability while maintaining operational efficiency.
+
+This research contributes to a deeper understanding of how targeted pricing interventions can unlock value in underperforming inventory, offering a roadmap for more effective inventory management in the fast-paced world of fashion e-commerce.
