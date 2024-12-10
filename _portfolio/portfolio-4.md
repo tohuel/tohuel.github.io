@@ -1,6 +1,7 @@
 ---
 title: "Human Machine Interaction in Pricing"
-excerpt: "This paper was the outcome of a long-term project at Zalando. Building on the insights from this project, I developed an algorithmic guardrail for human discounts as a solution of a multidimensional Knapsack problem. This human pricing guardail allowed for market tailored prices. 1<br/><img src='/images/human_machine.png'>
+excerpt: "This paper was the outcome of a long-term project at Zalando. Building on the insights from this project, I developed an algorithmic guardrail for human discounts as a solution of a multidimensional Knapsack problem. This human pricing guardail allowed for market tailored prices. 
+The paper was presented at academic coneferences in Mannheim (ZEW), Berlin (VfS Jahrestagung), Düsseldorf (DICE), Rome (AI Conference), Max Planck Society. <br/><img src='/images/human_machine.png'>
 <br />
 
 <br />
