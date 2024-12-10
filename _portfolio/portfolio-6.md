@@ -1,6 +1,6 @@
 ---
 title: "Understanding the consequences of fat tails in Pricing"
-excerpt: "This project was long-term project at Zalando. The project aimed at breaking the cycle of inefficiencies for the pricing of low selling articles in Fashion E-Commerce. 1<br/><img src='/images/distribution_slow_mover.png'>"
+excerpt: "This was a long-term research project at Zalando. It addresses the challenge of optimizing pricing strategies for "slow movers" in fashion e-commerce—products with low sales, high inventory levels, and limited demand. Traditional pricing algorithms struggle with these items due to sparse data, creating a cycle of underperformance. By exploring tailored pricing interventions and refining demand forecasts, the project demonstrates how strategic adjustments can improve visibility and sales for slow movers without disrupting the performance of fast-moving items. The findings highlight the potential to transform inefficiencies into opportunities through data-driven, scalable approaches, offering valuable insights for enhancing inventory management and profitability in e-commerce. 1<br/><img src='/images/distribution_slow_mover.png'>"
 collection: portfolio
 category: applied-microeconometrics
 ---
